@@ -1,6 +1,4 @@
-💎Swag Labs (Saucedemo)💎
-
-💠 Automated tests using Selenium with Java for an E-commerce website
+💎Swag Labs (Saucedemo)- Automated tests using Selenium with Java for an E-commerce website💎
 
 🌍 Website home page
 
